@@ -1,28 +1,27 @@
-# Audio-based Image Distortion
+# CSS-only Marquee Menu Effect
 
-A set of experimental audio-based image distortion effects made with WebGL.
+A menu with a css-only marquee hover effect based on [Francesco Zagami's Dribbble shot](https://dribbble.com/shots/9524661-Homepage-Menu-Interaction).
 
-![Featured](https://tympanus.net/codrops/wp-content/uploads/2020/02/Soundbasedimagedistortion_featured.jpg)
+![Image Title](https://tympanus.net/codrops/wp-content/uploads/2020/03/Marquee_featured.jpg)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=47614)
+[Article on Codrops](https://tympanus.net/codrops/?p=48796)
 
-[Demo](http://tympanus.net/Development/AudioBasedImageDistortion/)
+[Demo](http://tympanus.net/Development/CSSMarqueeMenu/)
 
 ## Credits
 
-- Sound icons made by [Freepik](https://www.flaticon.com/authors/freepik)
-
-## License
-This resource can be used freely in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource "as-is" and sell, redistribute, re-publish, or sell "pluginized" versions of it. Free plugins built using this resource should have a visible mention and link to the original work on our site.
+- Images by [Frankie Cordoba AKA Foulster](https://www.instagram.com/byfoul/)
+- Font used: [Sofia Pro](https://fonts.adobe.com/fonts/sofia)
+- The grainy [background noise animation](https://css-tricks.com/snippets/css/animated-grainy-texture/) is by Geoff Graham
 
 ## Misc
 
-Follow Yannis: [Web](https://www.neundex.com), [Twitter](https://www.twitter.com/neundex), [Instagram](https://www.instagram.com/neundex)
-
 Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
 
+## License
+[MIT](LICENSE)
 
-[© Codrops 2020](http://www.codrops.com)
+Made with :blue_heart: by [Codrops](http://www.codrops.com)
 
 
 
